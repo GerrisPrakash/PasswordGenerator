@@ -1,0 +1,45 @@
+
+body{
+    background: #1C1C1C;
+
+}
+.card{
+    background:  #1F2937;
+    padding :80px;
+    border-radius:10px;
+}
+#gen{
+    color:#FFFFFF;
+
+}
+#ran{
+    color:#4ADF86;
+}
+#gen-btn{
+    width :159px;
+    height :24px;
+    color:#FFFFFF;
+    background: #10B981;
+    border-radius: 5px ;
+    border:none;
+    margin-bottom:40px;
+}
+#msg{
+    color:#FFFFFf;
+}
+#gen-btn:hover{
+    background:green;
+}
+#pass1 , #pass2{
+    width:200px;
+    height: 24px;
+    background: #273549;
+    margin-right:30px;
+    border-radius: 5px;
+    color: #55F991;
+    text-align: center;
+}
+#fle{
+    display:flex; 
+    justify-content: start;
+}
